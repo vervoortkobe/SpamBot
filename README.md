@@ -2,7 +2,7 @@
 An automated script to spam chat messages.  
 It types your message out and presses enter wherever your mouse-pointer is.  
   
-## py  
+## python  
 ### Usage  
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; range(10) stands for iteration count (how many times it will run)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Change the for-loop to a while-loop (while(true): ...) to set the iteration count to infinite.  
