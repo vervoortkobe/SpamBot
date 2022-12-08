@@ -1,5 +1,5 @@
 # SpamBot  
-An automated script to spam chat messages.  
+An automated bot to spam chat messages.  
 It types your message out and presses enter wherever your mouse-pointer is.  
   
 ## python  
